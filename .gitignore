@@ -1,3 +1,4 @@
 env
 carto/*.gpkg
 carto/*.csv
+carto/.ipynb_checkpoints/*
