@@ -9,33 +9,35 @@ Jorge Sanz · [@xurxosanz](http://twitter.com/xurxosanz)
 
 ---
 
+## Qué es
+
 * Geoinquietos Valencia + ETSICGyT de la UPV
-* Coordinación para activdades de cartografía humanitaria
+* Coordinación para activdades de **cartografía humanitaria**
 * Desde 2016
-  * Dos ediciones de Missing Maps
-  * Dos talleres HOT
-  * Dos activaciones (Irma y Mathew)
+  * Dos ediciones de **Missing Maps**
+  * Dos **talleres HOT**
+  * Dos **mapatones** (Irma y Mathew)
 
 ---
 
 ## Por qué
 
-* Geoinquietos no tiene infraestructura propia
+* Geoinquietos no tiene **infraestructura** propia
   * ni la quiere
-* Beneficio mutuo entre Geoinquietos y comunidad universitaria
-* Necesitamos ser ágiles ante una activación
+* Beneficio **mutuo** entre Geoinquietos y comunidad universitaria
+* Necesitamos ser **ágiles** ante una activación
 
 ---
 
 ## Cómo
 
-* Grupo de telegram para comunicación directa
-* El equipo de la UPV busca salas disponibles
-* Se acuerda fecha
+* Grupo de **Telegram** para comunicación directa
+* El equipo de la UPV busca **salas** disponibles
+* Se acuerda **fecha**
 * Se arrancan:
   * Meetup
   * Página en el wiki de OSM
-* Se anuncia en Meetup y en la comunidad universitaria
+* Se **anuncia** en Meetup y en la comunidad universitaria
 
 ---
 
@@ -43,16 +45,14 @@ Jorge Sanz · [@xurxosanz](http://twitter.com/xurxosanz)
 
 > Mapatón para activaciones del HOT en menos de 48 horas
 
-![](https://scontent-mad1-1.xx.fbcdn.net/v/t31.0-8/21729039_1724290394249765_3281892243221196531_o.jpg?oh=8d2f13beaa824667dbdcaaa5abda5562&oe=5A15D79B)
-
-
+![](https://scontent-mad1-1.xx.fbcdn.net/v/t31.0-8/21729039_1724290394249765_3281892243221196531_o.jpg?oh=8d2f13beaa824667dbdcaaa5abda5562&oe=5A15D79B) <!-- .element style="width:60%;" -->
 
 ---
 
 ## Es reproducible
 
-* Pero necesita cierta confianza entre los dos equipos
-* Mejor empezar por coordinar actividades juntos menos urgentes
+* Pero necesita cierta **confianza** entre los dos equipos
+* Mejor empezar por coordinar actividades juntos **menos urgentes**
 * No tiene por qué ser solo para una única universidad
   * ¿Geovoluntariado UV?
   * Y en vuestras ciudades?
