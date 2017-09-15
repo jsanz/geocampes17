@@ -45,7 +45,7 @@ Jorge Sanz · [@xurxosanz](http://twitter.com/xurxosanz)
 
 > Mapatón para activaciones del HOT en menos de 48 horas
 
-![](https://scontent-mad1-1.xx.fbcdn.net/v/t31.0-8/21729039_1724290394249765_3281892243221196531_o.jpg?oh=8d2f13beaa824667dbdcaaa5abda5562&oe=5A15D79B) <!-- .element style="width:60%;" -->
+![](https://scontent-mad1-1.xx.fbcdn.net/v/t31.0-8/21729039_1724290394249765_3281892243221196531_o.jpg?oh=8d2f13beaa824667dbdcaaa5abda5562&oe=5A15D79B) <!-- .element style="width:50%;" -->
 
 ---
 
@@ -56,3 +56,16 @@ Jorge Sanz · [@xurxosanz](http://twitter.com/xurxosanz)
 * No tiene por qué ser solo para una única universidad
   * ¿Geovoluntariado UV?
   * Y en vuestras ciudades?
+
+---
+
+ ¿Preguntas?
+ ====================
+
+ Jorge Sanz · [@xurxosanz](http://twitter.com/xurxosanz)
+
+ [Geocamp 2017](http://2017.geocamp.es)
+
+ ![](http://2017.geocamp.es/assets/img/pulpo2017-301x205.png)
+
+  ---
