@@ -1,7 +1,7 @@
 bleach==3.1.4
 carto==1.1.0
 cartoframes==0.2.2b2
-certifi==2017.7.27.1
+certifi==2023.7.22
 chardet==3.0.4
 cycler==0.10.0
 decorator==4.1.2
